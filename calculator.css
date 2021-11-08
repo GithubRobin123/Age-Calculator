@@ -17,7 +17,6 @@ body{
     position: relative;
     margin-bottom: 50px;
     text-align: center;
-    background-color: #080808;
     background: rgb(184 131 148 / 75%);
     border-radius: 5px;
     box-shadow: 0 15px 20px rgba(0,0,0,0.3);
@@ -51,7 +50,6 @@ button:hover{
 input ,button{
     height: 50px;
     background-color: #fff;
-    color: #080808;
     background: rgb(184 131 148 / 75%);
     font-weight: 500;
     border-radius: 5px;
@@ -75,7 +73,6 @@ button{
 }
 
 .input-type{
-    background-color: #080808;
     background: rgb(184 131 148 / 75%);
     padding: 30px 25px;
     border-radius: 8px;
@@ -92,7 +89,6 @@ button{
 .output-type div{
     height: 100px;
     width: 100px;
-    background-color: #080808;
     background: rgb(184 131 148 / 75%);
     border-radius: 5px;
     color: #fff;
