@@ -81,6 +81,16 @@ button{
     margin-bottom: 50px;
 }
 
+.text{
+    position: relative;
+    padding: 15px;
+}
+.text span{
+    font-weight: bolder;
+    /* color: #fff; */
+    
+}
+
 .output-type{
     width: 100%;
     display: flex;
