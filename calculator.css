@@ -1,6 +1,5 @@
 body{
-    /* background-color: #656565; */
-    /* background-image: url(background.jpg); */
+   
     background-color: #080808;
     
 
@@ -87,25 +86,11 @@ button{
 }
 
 .input-type{
-<<<<<<< HEAD
     background-color: green;
-=======
-    background: rgb(184 131 148 / 75%);
->>>>>>> 1c1046df1915323c66e53ed110ece67b618a15cc
     padding: 30px 25px;
     border-radius: 8px;
     box-shadow: 0 15px 20px rgba(0,0,0,0.3);
     margin-bottom: 50px;
-}
-
-.text{
-    position: relative;
-    padding: 15px;
-}
-.text span{
-    font-weight: bolder;
-    /* color: #fff; */
-    
 }
 
 .output-type{
@@ -117,11 +102,7 @@ button{
 .output-type div{
     height: 100px;
     width: 100px;
-<<<<<<< HEAD
     background-color: green;
-=======
-    background: rgb(184 131 148 / 75%);
->>>>>>> 1c1046df1915323c66e53ed110ece67b618a15cc
     border-radius: 5px;
     color: #fff;
     font-weight: bolder;
