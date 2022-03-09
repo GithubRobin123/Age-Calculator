@@ -17,7 +17,6 @@ body{
     position: relative;
     margin-bottom: 50px;
     text-align: center;
-    background: rgb(184 131 148 / 75%);
     background-color: green;
     border-radius: 5px;
     box-shadow: 0 15px 20px rgba(0,0,0,0.3);
@@ -50,7 +49,6 @@ button:hover, input:hover{
 input ,button{
     height: 50px;
     background-color: green;
-
     font-weight: 500;
     border-radius: 5px;
     font-weight: bolder;
