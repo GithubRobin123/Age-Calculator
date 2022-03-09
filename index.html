@@ -8,13 +8,15 @@
     <link rel="stylesheet" type="text/css" href="calculator.css">
 </head>
 <body>
-   
+
+
     <div class="container">
         <div class="header">
-            <span>Age calculator By Robin</span>
+            <span>Age calculator by Robin</span>
         </div>
         <div class="input-type">
-            <input type="text" placeholder="Your Date of birth" onfocus="(this.type ='date')" id="date-input">
+            <div class="text"><span>Enter your date of birth</span></div>
+            <input type="date"  id="date-input">
             <button onclick="agecalculator()"><span id="cal">calculate</span></button>
         </div>
         <div class="output-type">
